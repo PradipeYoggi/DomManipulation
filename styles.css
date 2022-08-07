@@ -1,0 +1,41 @@
+table {
+    padding: 2px;
+    margin: 2px;
+}
+#divProduct1, #divProduct2, #divProduct3 {
+    border-style: solid;
+    border-color: gray;
+    padding: 2px;
+    margin: 2px;
+}
+h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+li {
+    margin-bottom: 4px;
+}
+nav, table, ul, form {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar-brand {
+    color: whitesmoke;
+}
+#RentalEquipmentSelect01 {
+    width: 100%;
+    height: 2rem;
+}
+#Equipments01 {
+    margin-bottom: 8px;
+}
+.form-group {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: lightgrey;
+    padding: 5px;
+    padding-top: 15px;
+}
+#AddProductBtn1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
